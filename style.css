@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #EEE2DC;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #123C69;
+}
+
+.introbox {
+    background-color: #AC3B61;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+    color: #123C69;
+}
+
+.imageview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 5px;
+  }
+
+  footer {
+    background-color: #123C69;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.likesbox {
+    background-color: #EDC7B7;
+    text-align: center;
+    line-height: 120%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.videobox {
+    text-align: center;
+    background-color: #BAB2B5;
+}
+
+.travelimages {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+}
